@@ -8,8 +8,8 @@ Every sports team claims to have the best fan base, our's just happens to actual
 ### Steve Rabel Is The Voice Of Reason
 - Steve Rabel is a local radio legend, *the voice of the Seahawks*. A former Seahawks wide receiver was offered a broadcasting analysis position for the Seahawks in 1982 and has been doing it ever since. He is the voice of reason, you will listen to no other radio station on game days as he has the most accurate analysis of the team.  
 
-### Wear Blue On Friday \textcolor{blue}{blue} 
-- Every Friday during season, you will wear blue or Seahawks attire all day. As we head into the weekend and prepare for Sunday's game your outward support will get other 12's, as well as outsiders excited for the coming game. If a game happens to fall on Monday or Thursay, you would do the same and make that day *Blue*\textcolor{blue}{blue}.
+### Wear Blue On Friday <span style="color: blue; > text</span>   
+- Every Friday during season, you will wear blue or Seahawks attire all day. As we head into the weekend and prepare for Sunday's game your outward support will get other 12's, as well as outsiders excited for the coming game. If a game happens to fall on Monday or Thursay, you would do the same and make that day *Blue*<span style="color: blue; > text</span>.
 
 ### Game Day Tailgate
 - The main tailgate where the real 12's are, is located on Utah Street, right next to the Starbucks headquarters. New 12's will show up Sunday morning looking for a place to set up their tailgate. Real 12's know you need to show up **Friday** to secure your spot. Some 12's leave a camper/trailer over the weekend to ensure their spot for Sunday.  
